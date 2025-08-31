@@ -42,6 +42,3 @@ This project provides a comprehensive analytical walkthrough from raw data to ac
 
 
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/96773608/b5aa7579-b30e-4562-8460-4787544fcd9f/Excel-Project-Dataset.xlsx)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/96773608/10e783a4-d566-4404-b6ca-5818c16139a9/excel-report.pdf)
-[3](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/383ef63da85bc6a5d5e198b70f212c2f/605e1989-0b0d-4b7a-ad7e-a042afac2a17/b3356305.md)
